@@ -1,0 +1,17 @@
+/*
+Write your variables here. All available variables can be
+found in element-ui/packages/theme-chalk/src/common/var.scss.
+For example, to overwrite the theme color:
+*/
+
+// Global Styles
+$--color-primary: #2a92ff;
+/* icon font path, required */
+$--font-path: "~element-ui/lib/theme-chalk/fonts";
+* {
+  @import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700;900&display=swap");
+  font-family: "Titillium Web", sans-serif;
+}
+
+// Import Framework Package
+@import "~element-ui/packages/theme-chalk/src/index";
