@@ -4,4 +4,4 @@
 Requires Firebase to be setup (instruction provided in relevent files).
 
 ## License
-[MIT](https://choosealicense.com/licenses/unlicense/)
+[The Unlicense](https://choosealicense.com/licenses/unlicense/)
